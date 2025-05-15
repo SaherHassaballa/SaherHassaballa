@@ -1,43 +1,33 @@
 # 👋 Hi, I'm Saher Hassaballa
 
-Welcome to my GitHub profile! I'm an enthusiastic **Engineer** with a strong focus on **Computer and Control Systems**—passionate about integrating technology, automation, and data-driven solutions.
+Welcome to my GitHub profile! I am an engineer specializing in **Computer and Control Systems** with a passion for smart solutions, programming, and data science.
 
 ## 🚀 About Me
 
-- 🎓 Engineering background in Computer and Control Systems.
-- 🤖 Interested in automation, embedded systems, robotics, and intelligent control.
-- 🧑‍💻 Skilled in C/C++, Python, MATLAB, and PLC programming.
-- ⚙️ Experienced with microcontrollers, sensors, actuators, and real-time systems.
-- 📊 Passionate about leveraging data and machine learning for smarter control and optimization.
-- 🌍 Eager to collaborate on challenging projects that combine engineering and data science.
+- 🎓 Bachelor’s degree in Computer and Control Systems Engineering.
+- 🧑‍💻 Proficient in **Python**, **SQL**, **Java**, **C++**, and **Arduino** for designing and implementing real-world engineering solutions.
+- 📊 Enthusiastic about data analysis, building intelligent models, and extracting insights from large datasets.
+- 🤖 Interested in artificial intelligence, machine learning, and their applications in industrial automation and control.
+- 🤝 Always open to collaboration in technical or research projects.
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
-![PLC](https://img.shields.io/badge/-PLC-333333?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
 ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=raspberry-pi)
-![Simulink](https://img.shields.io/badge/-Simulink-333333?style=flat&logo=mathworks)
+![Data Science](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=datacamp)
 
 ## 📈 GitHub Stats
 
 ![SaherHassaballa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaherHassaballa&show_icons=true&theme=radical)
 
-## 📬 How to reach me
+## 📬 Contact Me
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
-- 🌐 Portfolio: [Your Portfolio](https://your-portfolio.com) <!-- optional -->
-
-## 🌟 Fun Facts
-
-- I love building and experimenting with control systems and automation projects.
-- Always eager to learn about new technologies in engineering and embedded systems.
-- Enjoy collaborating with fellow engineers and innovators worldwide.
+- 📧 Email: [saherayman290@gmail.com]
+- 💼 LinkedIn: (www.linkedin.com/in/saher-hassaballah-36a922196)
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my projects or connect with me for collaboration.
+Thank you for visiting my profile! Feel free to explore my projects or contact me for collaboration and new ideas.
