@@ -1,17 +1,18 @@
 <h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/tkSWzaIrLYCpLHO2X0/giphy.gif" alt="Charismatic AI Rain" width="200" />
+  <!-- Replace the GIF link below with your own personalized GIF if available -->
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="AI Enthusiast" width="220" />
 </p>
 
 <h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Java • SQL • Data Structures</h3>
 
 <p align="center">
   <a href="mailto:saherayman290@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/saher-hassaballah-36a922196" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -19,12 +20,12 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer & Control Systems Engineer – Zagazig University  
-- 🤖 Passionate about Artificial Intelligence & Robotics  
-- 🔬 Proficient in C/C++, Java, OOP, Arduino, and Python  
-- 🛢️ Experienced with SQL and Database Design  
-- 📊 Enthusiastic about Algorithms & Data Structures  
-- 🎯 Open to collaborations in AI, Robotics, and Data projects  
+- 🎓 **Computer & Control Systems Engineer** – Zagazig University  
+- 🤖 Passionate about **Artificial Intelligence & Robotics**  
+- 💻 Skilled in **C/C++**, **Java**, **OOP**, **Arduino**, **Python**  
+- 🗄️ Experienced with **SQL** and **Database Design**  
+- 📈 Enthusiastic about **Algorithms & Data Structures**  
+- 🤝 Open to collaborations in **AI, Robotics, and Data projects**
 
 ---
 
@@ -39,10 +40,10 @@
 ## 🚀 Projects & Interests
 
 - 🤖 AI-Powered Robotics  
-- ☕ Java Applications using OOP  
+- ☕ Java Applications (OOP)  
 - 🔄 Data Structures & Algorithms  
 - 🧠 Computer Vision (Object Detection & Classification)  
-- 🛢️ SQL & Relational Databases  
+- 🗄️ SQL & Relational Databases  
 - 🔧 Arduino-based Embedded Systems  
 
 ---
