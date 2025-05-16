@@ -2,44 +2,66 @@
   <img src="https://i.imgur.com/v0qQj2l.png" alt="Top Graphic Banner" width="100%" />
 </p>
 
+<h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
+<h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Computer Vision</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+</p>
+
 <p align="center">
   <a href="mailto:saherayman290@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/saher-hassaballah-36a922196" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 **Bachelor’s degree in Computer and Control Systems Engineering.**
-- 🧑‍💻 أجيد البرمجة بلغات: **Python**، **SQL**، **Java**، **C++**، و **Arduino**، وأستخدمها في تصميم وتنفيذ حلول هندسية عملية.
-- 📊 متحمس لتحليل البيانات وبناء نماذج ذكية واستخلاص رؤى من البيانات الضخمة.
-- 🤖 مهتم بذكاء الصناعي وتعلم الآلة وتطبيقاتهما في الأتمتة الصناعية والتحكم.
-- 🤝 منفتح دومًا للتعاون في مشاريع تقنية أو بحثية.
+- 🎓 Computer & Control Systems Engineer – Zagazig University  
+- 🤖 Passionate about Artificial Intelligence & Robotics  
+- 🔬 Strong skills in C/C++, Arduino, and Python for intelligent control systems  
+- 📈 Love working with data, building AI models, and applying vision-based automation  
+- 🎯 Open to collaborations in AI & Robotics projects  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql" alt="SQL"/>
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" alt="Java"/>
-  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp" alt="C++"/>
-  <img src="https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=datacamp" alt="Data Science"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,git" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Projects & Interests
+
+- 🤖 AI-Powered Robotics  
+- 🧠 Computer Vision (Object Detection & Classification)  
+- 🔧 Arduino-based Smart Systems  
+- 🎮 Real-time Control using AI + Microcontrollers  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaherHassaballa&show_icons=true&theme=radical" alt="SaherHassaballa's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaherHassaballa&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaherHassaballa&theme=radical" />
+</p>
+
+---
+
+## 🎨 Anime Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" />
 </p>
 
 ---
