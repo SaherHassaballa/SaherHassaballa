@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=4000&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Saher+Hassaballah;AI+%26+Robotics+Engineer;Embedded+Systems+Developer" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Saher+Hassaballah;AI+%26+Robotics+Engineer" alt="Typing Effect" />
 </h1>
 
 <p align="center">
