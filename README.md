@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
-<h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Computer Vision</h3>
+<h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Java • SQL • Data Structures</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
@@ -24,16 +24,17 @@
 
 - 🎓 Computer & Control Systems Engineer – Zagazig University  
 - 🤖 Passionate about Artificial Intelligence & Robotics  
-- 🔬 Strong skills in C/C++, Arduino, and Python for intelligent control systems  
-- 📈 Love working with data, building AI models, and applying vision-based automation  
-- 🎯 Open to collaborations in AI & Robotics projects  
+- 🔬 Strong in C/C++, Java, OOP, Arduino, and Python  
+- 🛢️ Familiar with SQL and Database Design  
+- 📊 Deep interest in Algorithms & Data Structures  
+- 🎯 Open to collaborations in AI, Robotics, and Data projects  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,arduino,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,arduino,mysql,linux,git" />
 </p>
 
 ---
@@ -41,9 +42,11 @@
 ## 🚀 Projects & Interests
 
 - 🤖 AI-Powered Robotics  
+- ☕ Java Applications using OOP  
+- 🔄 Data Structures & Algorithms  
 - 🧠 Computer Vision (Object Detection & Classification)  
-- 🔧 Arduino-based Smart Systems  
-- 🎮 Real-time Control using AI + Microcontrollers  
+- 🛢️ SQL & Relational Databases  
+- 🔧 Arduino-based Embedded Systems  
 
 ---
 
@@ -57,11 +60,14 @@
 
 ---
 
-## 🎨 Anime Vibes
+## 🌍 Flags That Inspire Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" />
+  <img src="https://flagcdn.com/w80/eg.png" alt="Egypt" title="Egypt" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://flagcdn.com/w80/it.png" alt="Italy" title="Italy" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://flagcdn.com/w80/jp.png" alt="Japan" title="Japan" />
 </p>
 
 ---
