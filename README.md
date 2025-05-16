@@ -50,7 +50,7 @@
 
 ---
 
-## 🌍 **Global Connections**
+## 🌍 **me**
 
 <p align="center">
   <img src="https://flagcdn.com/w80/it.png" width="60" title="Italy - Innovation Hub" />
