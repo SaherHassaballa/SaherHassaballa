@@ -6,24 +6,6 @@
 
 ---
 
-## 📬 **Contact Me**
-
-<p align="center">
-  <a href="mailto:saherayman290@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00509D" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/saher-hassaballah-36a922196" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00509D" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SaherHassaballa" target="_blank">
-    <img src="https://img.shields.io/badge/🐱_GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white&labelColor=00509D" />
-  </a>
-</p>
-
----
-
 ## 🧠 **About Me**
 
 - 🔭 **Currently Working On:** Autonomous Robotics Systems  
@@ -78,9 +60,20 @@
 
 ---
 
-<div align="center">
-  
-  **"Engineering Tomorrow's Intelligent Systems Today"**  
-  [![Visits](https://komarev.com/ghpvc/?username=SaherHassaballa&label=Profile+Views&color=0077B5&style=flat-square)](https://github.com/SaherHassaballa)
-  
-</div>
+## 📬 **Contact Me**
+
+<p align="center">
+  <a href="mailto:saherayman290@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00509D" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saher-hassaballah-36a922196" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00509D" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SaherHassaballa" target="_blank">
+    <img src="https://img.shields.io/badge/🐱_GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white&labelColor=00509D" />
+  </a>
+</p>
+
+---
