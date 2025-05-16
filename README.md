@@ -6,7 +6,7 @@
 <h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Java • SQL • Data Structures</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2C4h9RYRlcU5q/giphy.gif" width="200" alt="Al Pacino GIF"/>
+  <img src="https://media.giphy.com/media/RMGbTGi77Zg980i3ri/giphy.gif" width="200" alt="Marlon Brando GIF"/>
 </p>
 
 <p align="center">
@@ -83,4 +83,8 @@
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/26/85/e4/2685e4bdb3b648fa5bdcbe9c3488c26e.gif" alt="Charisma Anime Footer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0Iyql5fp8P2RpD5C/giphy.gif" alt="Enigmatic Robotics Loop" width="100%" />
 </p>
