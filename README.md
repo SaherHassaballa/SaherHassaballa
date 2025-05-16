@@ -78,13 +78,3 @@
   <a href="mailto:saherayman290@gmail.com">📧 saherayman290@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/saher-hassaballah-36a922196" target="_blank">💼 LinkedIn</a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/26/85/e4/2685e4bdb3b648fa5bdcbe9c3488c26e.gif" alt="Charisma Anime Footer" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0Iyql5fp8P2RpD5C/giphy.gif" alt="Enigmatic Robotics Loop" width="100%" />
-</p>
