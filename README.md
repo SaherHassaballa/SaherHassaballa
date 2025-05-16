@@ -6,7 +6,7 @@
 <h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Java • SQL • Data Structures</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxuNXkwb3VoNTU4OWo5N2p5eDl0czVxNGlrZWFuMHk3bm5hanZ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ff4S44ptDOM322ImNM/giphy.gif)" width="200" alt="coding gif"/>
 </p>
 
 <p align="center">
@@ -66,8 +66,6 @@
   <img src="https://flagcdn.com/w80/eg.png" alt="Egypt" title="Egypt" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://flagcdn.com/w80/it.png" alt="Italy" title="Italy" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://flagcdn.com/w80/jp.png" alt="Japan" title="Japan" />
 </p>
 
 ---
