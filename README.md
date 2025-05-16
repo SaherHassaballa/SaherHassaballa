@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/RMGbTGi77Zg980i3ri/giphy.gif" alt="Mysterious AI Engineer" width="100%" />
+  <img src="https://i.redd.it/1wiwdmz9jpfe1.gif" alt="Mysterious AI Engineer" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
