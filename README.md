@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/dtjx21QRZ2nrgYz3iA/giphy.gif" alt="Mysterious AI Engineer" width="100%" />
+  <img src="https://media.giphy.com/media/dtjx21QRZ2nrgYz3iA/giphy.gif" alt="Mysterious AI Engineer" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
 <h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Java • SQL • Data Structures</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/l4FGA5yLpEhfONOtW/giphy.gif" width="300" alt="AI Engineer GIF"/>
 </p>
 
 <p align="center">
