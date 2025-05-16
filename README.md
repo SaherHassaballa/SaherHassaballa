@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Saher+Hassaballah;AI+%26+Robotics+Engineer" alt="Typing Effect" />
 </h1>
 
-<h3 align="center" style="color: #FF0000; text-shadow: 0 0 10px rgba(255,0,0,0.5);">🤖 C++ | ROS | OpenCV | Arduino | Machine Learning</h3>
+<h3 align="center" style="color: #FF0000; text-shadow: 0 0 10px rgba(255,0,0,0.5);">🤖 C++ | ROS | OpenCV | Arduino | AI</h3>
 
 ---
 
