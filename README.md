@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the GIF link below with your own personalized GIF if available -->
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="AI Enthusiast" width="220" />
+  <img src="assets/profile.png" alt="Saher Hassaballah" width="180" style="border-radius: 50%;" />
 </p>
 
 <h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Java • SQL • Data Structures</h3>
