@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1c/f6/15/1cf615dbda1fd65828798d83fc6c6c3b.gif" alt="Mysterious Anime Banner" width="100%" />
+  <img src="https://media3.giphy.com/media/dtjx21QRZ2nrgYz3iA/giphy.gif" alt="Mysterious AI Engineer" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
 <h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Java • SQL • Data Structures</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxuNXkwb3VoNTU4OWo5N2p5eDl0czVxNGlrZWFuMHk3bm5hanZ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ff4S44ptDOM322ImNM/giphy.gif)" width="200" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 - 🎓 Computer & Control Systems Engineer – Zagazig University  
 - 🤖 Passionate about Artificial Intelligence & Robotics  
-- 🔬 Strong in C/C++, Java, OOP, Arduino, and Python  
-- 🛢️ Familiar with SQL and Database Design  
-- 📊 Deep interest in Algorithms & Data Structures  
+- 🔬 Proficient in C/C++, Java, OOP, Arduino, and Python  
+- 🛢️ Experienced with SQL and Database Design  
+- 📊 Enthusiastic about Algorithms & Data Structures  
 - 🎯 Open to collaborations in AI, Robotics, and Data projects  
 
 ---
@@ -66,6 +66,8 @@
   <img src="https://flagcdn.com/w80/eg.png" alt="Egypt" title="Egypt" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://flagcdn.com/w80/it.png" alt="Italy" title="Italy" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://flagcdn.com/w80/jp.png" alt="Japan" title="Japan" />
 </p>
 
 ---
