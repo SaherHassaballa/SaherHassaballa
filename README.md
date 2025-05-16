@@ -1,19 +1,10 @@
-<p align="center">
-  <img src="https://i.redd.it/1wiwdmz9jpfe1.gif" alt="Mysterious AI Engineer" width="100%" />
-</p>
-
 <h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/vLi3T5m3RH45y/giphy.gif" alt="Rain AI Gif" width="100%" />
-</p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/vLi3T5m3RH45y/giphy.gif" alt="Optimized AI Gif" width="150" />
-</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RMGbTGi77Zg980i3ri/giphy.gif" width="100" alt="Marlon Brando GIF"/>
+  <img src="https://media.giphy.com/media/tkSWzaIrLYCpLHO2X0/giphy.gif" alt="Charismatic AI Rain" width="200" />
 </p>
+
+<h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Java • SQL • Data Structures</h3>
 
 <p align="center">
   <a href="mailto:saherayman290@gmail.com">
