@@ -6,19 +6,19 @@
 
 ---
 
-## 📌 **Contact Info**
+## 📬 **Contact Me**
 
 <p align="center">
   <a href="mailto:saherayman290@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000&style=flat-square" />
+    <img src="https://img.shields.io/badge/📧_Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00509D" />
   </a>
-  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saher-hassaballah-36a922196" target="_blank">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000" />
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00509D" />
   </a>
-  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SaherHassaballa" target="_blank">
-    <img src="https://img.shields.io/badge/🐱_GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" />
+    <img src="https://img.shields.io/badge/🐱_GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white&labelColor=00509D" />
   </a>
 </p>
 
@@ -26,12 +26,12 @@
 
 ## 🧠 **About Me**
 
-- 🔭 **Currently Working On:** Autonomous Robotics Systems
-- 🌱 **Learning:** Advanced Computer Vision Techniques
-- 👯 **Looking to Collaborate:** AI-powered Embedded Systems
-- 🤔 **Exploring:** ROS2 and Gazebo Simulations
-- 💬 **Ask me About:** C++ Optimization Techniques
-- ⚡ **Fun Fact:** I can code 12 hours straight with ☕ only!
+- 🔭 **Currently Working On:** Autonomous Robotics Systems  
+- 🌱 **Learning:** Advanced Computer Vision Techniques  
+- 👯 **Looking to Collaborate:** AI-powered Embedded Systems  
+- 🤔 **Exploring:** ROS2 and Gazebo Simulations  
+- 💬 **Ask me About:** C++ Optimization Techniques  
+- ⚡ **Fun Fact:** I can code 12 hours straight with ☕ only!  
 
 ---
 
@@ -47,15 +47,15 @@
 
 1. **Autonomous Drone Navigation**  
    » Real-time object avoidance using OpenCV  
-   » C++ | ROS | PX4
+   » C++ | ROS | PX4  
 
 2. **Smart Factory Robot Arm**  
    » IoT-enabled pick-and-place system  
-   » Arduino | Python | MQTT
+   » Arduino | Python | MQTT  
 
 3. **AI Traffic Analyzer**  
    » YOLO-based vehicle detection system  
-   » Python | TensorFlow | OpenCV
+   » Python | TensorFlow | OpenCV  
 
 ---
 
@@ -68,9 +68,19 @@
 
 ---
 
+## 🌍 **Global Connections**
+
+<p align="center">
+  <img src="https://flagcdn.com/w80/it.png" width="60" title="Italy - Innovation Hub" />
+  <br>
+  <img src="https://flagcdn.com/w80/eg.png" width="60" title="Egypt - Technical Heritage" />
+</p>
+
+---
+
 <div align="center">
   
   **"Engineering Tomorrow's Intelligent Systems Today"**  
-  [![Visits](https://komarev.com/ghpvc/?username=SaherHassaballa&label=Profile+Views&color=FF0000&style=flat-square)](https://github.com/SaherHassaballa)
+  [![Visits](https://komarev.com/ghpvc/?username=SaherHassaballa&label=Profile+Views&color=0077B5&style=flat-square)](https://github.com/SaherHassaballa)
   
 </div>
