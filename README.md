@@ -3,7 +3,11 @@
 </p>
 
 <h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
-<h3 align="center">AI & Robotics Enthusiast | C++ • Arduino • Java • SQL • Data Structures</h3>
+$1
+
+<p align="right">
+  <img src="https://media.giphy.com/media/vLi3T5m3RH45y/giphy.gif" alt="Optimized AI Gif" width="150" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RMGbTGi77Zg980i3ri/giphy.gif" width="200" alt="Marlon Brando GIF"/>
