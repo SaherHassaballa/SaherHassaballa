@@ -3,14 +3,16 @@
 </p>
 
 <h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
-$1
+<p align="center">
+  <img src="https://media.giphy.com/media/vLi3T5m3RH45y/giphy.gif" alt="Rain AI Gif" width="100%" />
+</p>
 
 <p align="right">
   <img src="https://media.giphy.com/media/vLi3T5m3RH45y/giphy.gif" alt="Optimized AI Gif" width="150" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RMGbTGi77Zg980i3ri/giphy.gif" width="200" alt="Marlon Brando GIF"/>
+  <img src="https://media.giphy.com/media/RMGbTGi77Zg980i3ri/giphy.gif" width="100" alt="Marlon Brando GIF"/>
 </p>
 
 <p align="center">
