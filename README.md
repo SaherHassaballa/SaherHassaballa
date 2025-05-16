@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/v0qQj2l.png" alt="Top Graphic Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/1c/f6/15/1cf615dbda1fd65828798d83fc6c6c3b.gif" alt="Mysterious Anime Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Saher Hassaballah</h1>
@@ -76,5 +76,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/9Jz6h1B.png" alt="Bottom Graphic Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/26/85/e4/2685e4bdb3b648fa5bdcbe9c3488c26e.gif" alt="Charisma Anime Footer" width="100%" />
 </p>
