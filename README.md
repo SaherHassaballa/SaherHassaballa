@@ -3,20 +3,20 @@
 </h1>
 
 <p align="center">
-  <img src="https://placehold.co/200x200/0077B5/ffffff?text=SH&font=orbitron&bold" width="180" style="border-radius: 50%; border: 3px solid #0077B5; box-shadow: 0 0 20px #0077B5;" alt="Saher Logo" />
+  <img src="https://placehold.co/200x200/8B0000/FFD700?text=SH&font=orbitron&bold" width="180" style="border-radius: 50%; border: 3px solid #FF0000; box-shadow: 0 0 25px rgba(255,0,0,0.7); filter: drop-shadow(0 0 10px #FF0000);" alt="Saher Logo" />
 </p>
 
-<h3 align="center">🤖 C++ | ROS | OpenCV | Arduino | Machine Learning</h3>
+<h3 align="center" style="color: #FF0000; text-shadow: 0 0 10px rgba(255,0,0,0.5);">🤖 C++ | ROS | OpenCV | Arduino | Machine Learning</h3>
 
 <div align="center">
   <a href="mailto:saherayman290@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" />
   </a>
   <a href="https://www.linkedin.com/in/saher-hassaballah-36a922196" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000" />
   </a>
   <a href="https://github.com/SaherHassaballa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" />
   </a>
 </div>
 
