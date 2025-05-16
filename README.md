@@ -75,5 +75,3 @@
     <img src="https://img.shields.io/badge/🐱_GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white&labelColor=00509D" />
   </a>
 </p>
-
----
